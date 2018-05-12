@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39686'
     url: http://www.gutenberg.org/2009/agents/39686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44878#A-Man-s-World
 gutenberg_issued: '2014-02-11'
 gutenberg_type: Text
 identifiers:
